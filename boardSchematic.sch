@@ -10658,21 +10658,14 @@ Updated 01/08/2005&lt;/i&gt;&lt;/h4&gt;</description>
 <part name="P+4" library="supply1" deviceset="+5V" device=""/>
 <part name="R2" library="rcl" deviceset="R-EU_" device="R1210W" value="0.4R"/>
 <part name="R8" library="rcl" deviceset="R-EU_" device="R0805" value="122"/>
-<part name="R9" library="rcl" deviceset="R-EU_" device="R0805" value="103"/>
-<part name="R10" library="rcl" deviceset="R-EU_" device="R0805" value="103"/>
 <part name="C4" library="rcl" deviceset="C-EU" device="C1210" value="10uF"/>
 <part name="C5" library="rcl" deviceset="C-EU" device="C1210" value="10uF"/>
-<part name="LED1" library="led" deviceset="LED" device="SML0805" value="RD"/>
-<part name="LED2" library="led" deviceset="LED" device="SML0805" value="GR"/>
 <part name="GND5" library="supply1" deviceset="GND" device=""/>
 <part name="RF" library="pinhead" deviceset="PINHD-2X4" device=""/>
 <part name="R11" library="rcl" deviceset="R-US_" device="R0805" value="103"/>
 <part name="R12" library="rcl" deviceset="R-US_" device="R0805" value="103"/>
 <part name="R14" library="rcl" deviceset="R-US_" device="R0805" value="103"/>
 <part name="BEACON" library="frankduerr" deviceset="MOD-NRF8001" device="MOD-NRF8001"/>
-<part name="R20" library="rcl" deviceset="R-EU_" device="R0805" value="102"/>
-<part name="LED4" library="led" deviceset="LED" device="SML0805" value="GR"/>
-<part name="GND4" library="supply1" deviceset="GND" device=""/>
 <part name="LED3" library="led" deviceset="Z-POWER-LED" device=""/>
 <part name="LED5" library="led" deviceset="Z-POWER-LED" device=""/>
 <part name="LED6" library="led" deviceset="Z-POWER-LED" device=""/>
@@ -10681,14 +10674,11 @@ Updated 01/08/2005&lt;/i&gt;&lt;/h4&gt;</description>
 <part name="R16" library="rcl" deviceset="R-EU_" device="R1206" value="1R0"/>
 <part name="R17" library="rcl" deviceset="R-EU_" device="R1206" value="1R0"/>
 <part name="R18" library="rcl" deviceset="R-EU_" device="R1206" value="1R0"/>
-<part name="R19" library="rcl" deviceset="R-EU_" device="R0805" value="102"/>
-<part name="R21" library="rcl" deviceset="R-EU_" device="R0805" value="102"/>
 <part name="Q1" library="transistor-npn" deviceset="BC817*" device="SMD" technology="-40"/>
 <part name="Q2" library="transistor-npn" deviceset="BC817*" device="SMD" technology="-40"/>
 <part name="GND1" library="supply1" deviceset="GND" device=""/>
 <part name="P+2" library="supply1" deviceset="VCC" device=""/>
 <part name="SG1" library="buzzer" deviceset="F/HMB" device=""/>
-<part name="R23" library="rcl" deviceset="R-EU_" device="R0805" value="102"/>
 <part name="Q3" library="transistor-npn" deviceset="BC817*" device="SMD" technology="-40"/>
 <part name="U$2" library="SparkFun-AnalogIC" deviceset="LM393" device=""/>
 <part name="Q4" library="SparkFun-Sensors" deviceset="LTR-301" device=""/>
@@ -10748,21 +10738,14 @@ Updated 01/08/2005&lt;/i&gt;&lt;/h4&gt;</description>
 <instance part="P+4" gate="1" x="302.26" y="-25.4"/>
 <instance part="R2" gate="G$1" x="302.26" y="-35.56" rot="R90"/>
 <instance part="R8" gate="G$1" x="269.24" y="-66.04" rot="R90"/>
-<instance part="R9" gate="G$1" x="309.88" y="-35.56" rot="R90"/>
-<instance part="R10" gate="G$1" x="320.04" y="-35.56" rot="R90"/>
 <instance part="C4" gate="G$1" x="314.96" y="-66.04"/>
 <instance part="C5" gate="G$1" x="304.8" y="-66.04"/>
-<instance part="LED1" gate="G$1" x="309.88" y="-45.72"/>
-<instance part="LED2" gate="G$1" x="320.04" y="-45.72"/>
 <instance part="GND5" gate="1" x="264.16" y="-81.28"/>
 <instance part="RF" gate="A" x="139.7" y="-83.82"/>
 <instance part="R11" gate="G$1" x="162.56" y="-83.82"/>
 <instance part="R12" gate="G$1" x="119.38" y="-86.36"/>
 <instance part="R14" gate="G$1" x="119.38" y="-83.82"/>
 <instance part="BEACON" gate="G$1" x="182.88" y="-33.02"/>
-<instance part="R20" gate="G$1" x="91.44" y="-43.18" rot="R180"/>
-<instance part="LED4" gate="G$1" x="101.6" y="-43.18" rot="R90"/>
-<instance part="GND4" gate="1" x="109.22" y="-48.26"/>
 <instance part="LED3" gate="G$1" x="22.86" y="-119.38"/>
 <instance part="LED5" gate="G$1" x="38.1" y="-119.38"/>
 <instance part="LED6" gate="G$1" x="53.34" y="-119.38"/>
@@ -10771,14 +10754,11 @@ Updated 01/08/2005&lt;/i&gt;&lt;/h4&gt;</description>
 <instance part="R16" gate="G$1" x="38.1" y="-109.22" rot="R270"/>
 <instance part="R17" gate="G$1" x="53.34" y="-109.22" rot="R270"/>
 <instance part="R18" gate="G$1" x="68.58" y="-109.22" rot="R270"/>
-<instance part="R19" gate="G$1" x="12.7" y="-134.62"/>
-<instance part="R21" gate="G$1" x="12.7" y="-149.86"/>
 <instance part="Q1" gate="G$1" x="58.42" y="-134.62"/>
 <instance part="Q2" gate="G$1" x="27.94" y="-149.86"/>
 <instance part="GND1" gate="1" x="60.96" y="-162.56"/>
 <instance part="P+2" gate="VCC" x="53.34" y="-91.44"/>
 <instance part="SG1" gate="G$1" x="86.36" y="-111.76" rot="R270"/>
-<instance part="R23" gate="G$1" x="12.7" y="-142.24"/>
 <instance part="Q3" gate="G$1" x="81.28" y="-142.24"/>
 <instance part="U$2" gate="G1" x="139.7" y="-137.16"/>
 <instance part="Q4" gate="G$1" x="109.22" y="-144.78"/>
@@ -10903,13 +10883,6 @@ Updated 01/08/2005&lt;/i&gt;&lt;/h4&gt;</description>
 <pinref part="BEACON" gate="G$1" pin="GND"/>
 <wire x1="167.64" y1="-30.48" x2="157.48" y2="-30.48" width="0.1524" layer="91"/>
 <label x="157.48" y="-30.48" size="1.778" layer="95"/>
-</segment>
-<segment>
-<pinref part="LED4" gate="G$1" pin="C"/>
-<pinref part="GND4" gate="1" pin="GND"/>
-<wire x1="109.22" y1="-43.18" x2="106.68" y2="-43.18" width="0.1524" layer="91"/>
-<wire x1="109.22" y1="-45.72" x2="109.22" y2="-43.18" width="0.1524" layer="91"/>
-<junction x="109.22" y="-43.18"/>
 </segment>
 <segment>
 <pinref part="Q2" gate="G$1" pin="E"/>
@@ -11201,43 +11174,8 @@ Updated 01/08/2005&lt;/i&gt;&lt;/h4&gt;</description>
 <junction x="302.26" y="-30.48"/>
 </segment>
 </net>
-<net name="N$2" class="0">
-<segment>
-<pinref part="LED1" gate="G$1" pin="A"/>
-<pinref part="R9" gate="G$1" pin="1"/>
-<wire x1="309.88" y1="-43.18" x2="309.88" y2="-40.64" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="N$6" class="0">
-<segment>
-<pinref part="LED2" gate="G$1" pin="A"/>
-<pinref part="R10" gate="G$1" pin="1"/>
-<wire x1="320.04" y1="-43.18" x2="320.04" y2="-40.64" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="N$8" class="0">
-<segment>
-<pinref part="IC2" gate="G$1" pin="CHRG"/>
-<pinref part="LED1" gate="G$1" pin="C"/>
-<wire x1="302.26" y1="-50.8" x2="309.88" y2="-50.8" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="N$10" class="0">
-<segment>
-<pinref part="IC2" gate="G$1" pin="STDBY"/>
-<pinref part="LED2" gate="G$1" pin="C"/>
-<wire x1="302.26" y1="-53.34" x2="320.04" y2="-53.34" width="0.1524" layer="91"/>
-<wire x1="320.04" y1="-53.34" x2="320.04" y2="-50.8" width="0.1524" layer="91"/>
-</segment>
-</net>
 <net name="N$14" class="0">
 <segment>
-<pinref part="R10" gate="G$1" pin="2"/>
-<pinref part="R9" gate="G$1" pin="2"/>
-<wire x1="320.04" y1="-30.48" x2="309.88" y2="-30.48" width="0.1524" layer="91"/>
-<wire x1="309.88" y1="-30.48" x2="304.8" y2="-30.48" width="0.1524" layer="91"/>
-<wire x1="304.8" y1="-30.48" x2="304.8" y2="-48.26" width="0.1524" layer="91"/>
-<junction x="309.88" y="-30.48"/>
 <pinref part="IC2" gate="G$1" pin="CE"/>
 <pinref part="R2" gate="G$1" pin="1"/>
 <wire x1="302.26" y1="-48.26" x2="302.26" y2="-40.64" width="0.1524" layer="91"/>
@@ -11247,7 +11185,6 @@ Updated 01/08/2005&lt;/i&gt;&lt;/h4&gt;</description>
 <wire x1="274.32" y1="-55.88" x2="274.32" y2="-60.96" width="0.1524" layer="91"/>
 <wire x1="274.32" y1="-60.96" x2="304.8" y2="-60.96" width="0.1524" layer="91"/>
 <wire x1="304.8" y1="-60.96" x2="304.8" y2="-48.26" width="0.1524" layer="91"/>
-<junction x="304.8" y="-48.26"/>
 <pinref part="C5" gate="G$1" pin="1"/>
 <wire x1="304.8" y1="-60.96" x2="304.8" y2="-63.5" width="0.1524" layer="91"/>
 <junction x="304.8" y="-60.96"/>
@@ -11427,34 +11364,6 @@ Updated 01/08/2005&lt;/i&gt;&lt;/h4&gt;</description>
 <label x="203.2" y="-25.4" size="1.778" layer="95"/>
 </segment>
 </net>
-<net name="N$26" class="0">
-<segment>
-<pinref part="LED4" gate="G$1" pin="A"/>
-<pinref part="R20" gate="G$1" pin="1"/>
-<wire x1="99.06" y1="-43.18" x2="96.52" y2="-43.18" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="N$29" class="0">
-<segment>
-<pinref part="MEGA328" gate="1" pin="PD4(T0/XCK/PCINT20)"/>
-<pinref part="R20" gate="G$1" pin="2"/>
-<wire x1="78.74" y1="-43.18" x2="86.36" y2="-43.18" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="N$1" class="0">
-<segment>
-<pinref part="R21" gate="G$1" pin="2"/>
-<pinref part="Q2" gate="G$1" pin="B"/>
-<wire x1="17.78" y1="-149.86" x2="25.4" y2="-149.86" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="N$4" class="0">
-<segment>
-<pinref part="R19" gate="G$1" pin="2"/>
-<pinref part="Q1" gate="G$1" pin="B"/>
-<wire x1="17.78" y1="-134.62" x2="55.88" y2="-134.62" width="0.1524" layer="91"/>
-</segment>
-</net>
 <net name="N$15" class="0">
 <segment>
 <pinref part="R15" gate="G$1" pin="2"/>
@@ -11511,23 +11420,16 @@ Updated 01/08/2005&lt;/i&gt;&lt;/h4&gt;</description>
 </net>
 <net name="GR" class="0">
 <segment>
-<pinref part="R21" gate="G$1" pin="1"/>
-<wire x1="7.62" y1="-149.86" x2="2.54" y2="-149.86" width="0.1524" layer="91"/>
 <label x="2.54" y="-149.86" size="1.778" layer="95" rot="R180" xref="yes"/>
+<pinref part="Q2" gate="G$1" pin="B"/>
+<wire x1="2.54" y1="-149.86" x2="25.4" y2="-149.86" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="RD" class="0">
 <segment>
-<pinref part="R19" gate="G$1" pin="1"/>
-<wire x1="7.62" y1="-134.62" x2="2.54" y2="-134.62" width="0.1524" layer="91"/>
 <label x="2.54" y="-134.62" size="1.778" layer="95" rot="R180" xref="yes"/>
-</segment>
-</net>
-<net name="N$21" class="0">
-<segment>
-<pinref part="R23" gate="G$1" pin="2"/>
-<pinref part="Q3" gate="G$1" pin="B"/>
-<wire x1="17.78" y1="-142.24" x2="78.74" y2="-142.24" width="0.1524" layer="91"/>
+<pinref part="Q1" gate="G$1" pin="B"/>
+<wire x1="2.54" y1="-134.62" x2="55.88" y2="-134.62" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$23" class="0">
@@ -11539,9 +11441,9 @@ Updated 01/08/2005&lt;/i&gt;&lt;/h4&gt;</description>
 </net>
 <net name="BZR" class="0">
 <segment>
-<pinref part="R23" gate="G$1" pin="1"/>
-<wire x1="7.62" y1="-142.24" x2="2.54" y2="-142.24" width="0.1524" layer="91"/>
 <label x="2.54" y="-142.24" size="1.778" layer="95" rot="R180" xref="yes"/>
+<pinref part="Q3" gate="G$1" pin="B"/>
+<wire x1="2.54" y1="-142.24" x2="78.74" y2="-142.24" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$22" class="0">
